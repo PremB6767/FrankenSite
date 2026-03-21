@@ -1,3 +1,32 @@
 body {
     text-align: center;
 }
+
+h2 {
+    text-align: center;
+}
+
+ol {
+    width: fit-content;
+    margin: 0 auto;
+    text-align: left;
+}
+
+ul {
+    width: fit-content;
+    margin: 0 auto;
+    text-align: left;
+}
+
+.container {
+    text-align: center;
+}
+
+button {
+  display: inline-block;
+  margin: 10px;
+}
+
+footer {
+    text-align: center;
+}
